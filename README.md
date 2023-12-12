@@ -4,9 +4,13 @@
 
 ## Performance Display
 + ### Outputs
-<img src="features\final_total.png" alt="Image 1" style="width: 33%; float: left;">
-<img src="features\salVSnonsal.png" alt="Image 2" style="width: 33%; float: left;">
-<img src="features\general.png" alt="Image 3" style="width: 34%; float: left;">
+
+<div align="center">
+    <img src="features\final_total.png" alt="Image 1" style="width: 33%; float: left;">
+    <img src="features\salVSnonsal.png" alt="Image 2" style="width: 33%; float: left;">
+    <img src="features\general.png" alt="Image 3" style="width: 34%; float: left;">
+</div>
+
 
 + ### Training Loss
 ![](features/loss.png)

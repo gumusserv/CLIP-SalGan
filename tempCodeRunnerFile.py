@@ -1,0 +1,1 @@
+Two dogs and a cat are lying on the bed

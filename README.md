@@ -1,6 +1,7 @@
 # CLIP-SalGan: A Text-Guided Saliency Model Combining GAN and CLIP Metrics
 
 ## Model Architecture
+![](features/salgan.png)
 
 ## Performance Display
 + ### Outputs
